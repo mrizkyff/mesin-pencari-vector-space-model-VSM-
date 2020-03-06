@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Introduction
 ============
 
@@ -93,3 +94,7 @@ Image Credits
 [Unsplash](https://unsplash.com/)
 
 [Uifaces](http://uifaces.com/)
+=======
+# mesin-pencari-vector-space-model-VSM-
+mesin pencari data tugas akhir (skripsi) dengan metode vector space model (VSM) information retrieval, bootstrap dan PHP native
+>>>>>>> 4a7324d3ab3dd8b9981aa86826f0a4be2de7ab87
